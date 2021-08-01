@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LucasHubert10
+- 👋 Hi, I’m Lucas Hubert and i'm 20yrs
 - 👀 I’m interested in learn a lot of things
 - 🌱 I’m currently learning frontend(react) and backend(nodejs,restapi,express and MySQL)
 - 💞️ I’m looking to collaborate on any project that makes me improve
